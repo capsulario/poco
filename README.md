@@ -1,2 +1,1 @@
-# poco
-Granule POCO Component
+# Granule POCO Component
